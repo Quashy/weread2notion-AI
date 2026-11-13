@@ -1,13 +1,13 @@
 # GitHub 仓库发布设置
 
-以下设置需要仓库管理员权限。使用 `hodgekou` 登录 GitHub 后完成一次即可。
+以下设置需要仓库管理员权限。使用拥有当前仓库管理员权限的账号登录 GitHub 后完成一次即可。
 
 ## About
 
 进入仓库首页右侧 `About → Edit repository details`：
 
 - Description：`微信读书 → Notion 自动同步：书架、进度、时长、划线、笔记与原生统计图表，无需服务器。`
-- Website：`https://app.notion.com/p/wph/Template-3a329affe5af800b8581f98b71e948fb`
+- Website：`https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c`
 
 推荐 Topics：
 

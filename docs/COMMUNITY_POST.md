@@ -34,9 +34,9 @@
 4. 配置三个 Actions Secrets
 5. 手动测试一次，以后每天自动运行
 
-项目地址：https://github.com/hodgekou/weread2notion-AI
+项目地址：https://github.com/Quashy/weread2notion-AI
 
-Notion 模板：https://app.notion.com/p/wph/Template-3a329affe5af800b8581f98b71e948fb
+Notion 模板：https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c
 
 这是一个完全由 ChatGPT / Codex（GPT-5 系列模型）协助生成和维护的项目。如果它对你有帮助，欢迎 Star、Fork、提交 Issue，也欢迎反馈首次配置过程中不清楚的地方。
 
@@ -44,7 +44,7 @@ Notion 模板：https://app.notion.com/p/wph/Template-3a329affe5af800b8581f98b71
 
 开源了一个微信读书 → Notion 自动同步工具：书架、状态、进度、阅读时长、划线、笔记和原生统计图表都可以同步。无需服务器，配置 GitHub Actions 后每天自动运行。
 
-GitHub：https://github.com/hodgekou/weread2notion-AI
+GitHub：https://github.com/Quashy/weread2notion-AI
 
 ## 推荐标签
 
