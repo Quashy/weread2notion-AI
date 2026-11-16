@@ -41,7 +41,7 @@
 
 公共原始模板：
 
-https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c
+https://quashy.notion.site/Template-9304aad76d888294b90981a37bbbc42c
 
 - 在使用者选择的工作区通过 Notion 原生 Duplicate 复制。没有指定位置时，优先私人区域。
 - 等待复制完成并读取新页，核实它是使用者自己的副本。

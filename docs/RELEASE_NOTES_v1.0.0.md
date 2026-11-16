@@ -19,7 +19,7 @@ WeRead2Notion AI 可以通过 GitHub Actions，把微信读书数据自动同步
 
 ## 开始使用
 
-1. Duplicate [Notion Template](https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c)。
+1. Duplicate [Notion Template](https://quashy.notion.site/Template-9304aad76d888294b90981a37bbbc42c)。
 2. 创建 Notion Integration，并连接到 Duplicate 后的最外层页面。
 3. Fork [GitHub 项目](https://github.com/Quashy/weread2notion-AI)。
 4. 配置 `WEREAD_API_KEY`、`NOTION_TOKEN`、`NOTION_PAGE` 三个 Actions Secrets。

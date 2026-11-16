@@ -36,7 +36,7 @@
 
 项目地址：https://github.com/Quashy/weread2notion-AI
 
-Notion 模板：https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c
+Notion 模板：https://quashy.notion.site/Template-9304aad76d888294b90981a37bbbc42c
 
 这是一个完全由 ChatGPT / Codex（GPT-5 系列模型）协助生成和维护的项目。如果它对你有帮助，欢迎 Star、Fork、提交 Issue，也欢迎反馈首次配置过程中不清楚的地方。
 

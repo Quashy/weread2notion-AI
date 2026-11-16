@@ -6,7 +6,7 @@
 
 ## 1. 复制 Notion 模板
 
-打开 [公共模板](https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c)，点击 Duplicate，选择自己的工作区并等待复制完成。
+打开 [公共模板](https://quashy.notion.site/Template-9304aad76d888294b90981a37bbbc42c)，点击 Duplicate，选择自己的工作区并等待复制完成。
 
 保留新副本的完整 URL，后面作为 `NOTION_PAGE`。不要使用公共模板地址，也不要在复制完成前修改数据库名称或属性类型。
 

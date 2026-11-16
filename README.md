@@ -8,7 +8,7 @@
 
 **自动同步 · 原生 Notion · 无需自建服务器 · 支持 AI 辅助搭建**
 
-[查看效果](#效果展示) · [让 AI 帮我搭建](#让-ai-帮你搭建) · [手动部署](docs/SETUP.md) · [复制 Notion 模板](https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c)
+[查看效果](#效果展示) · [让 AI 帮我搭建](#让-ai-帮你搭建) · [手动部署](docs/SETUP.md) · [复制 Notion 模板](https://quashy.notion.site/Template-9304aad76d888294b90981a37bbbc42c)
 
 ---
 

@@ -7,7 +7,7 @@
 进入仓库首页右侧 `About → Edit repository details`：
 
 - Description：`微信读书 → Notion 自动同步：书架、进度、时长、划线、笔记与原生统计图表，无需服务器。`
-- Website：`https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c`
+- Website：`https://quashy.notion.site/Template-9304aad76d888294b90981a37bbbc42c`
 
 推荐 Topics：
 
