@@ -29,7 +29,7 @@ dependencies = [
 Homepage = "https://github.com/Quashy/weread2notion-AI"
 Documentation = "https://github.com/Quashy/weread2notion-AI#readme"
 Issues = "https://github.com/Quashy/weread2notion-AI/issues"
-Template = "https://titanium-echidna-59b.notion.site/Template-9304aad76d888294b90981a37bbbc42c"
+Template = "https://quashy.notion.site/Template-9304aad76d888294b90981a37bbbc42c"
 
 [project.optional-dependencies]
 test = ["pytest>=8"]
