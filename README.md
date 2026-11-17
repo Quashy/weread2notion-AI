@@ -40,6 +40,8 @@
 
 **微信读书负责阅读，Notion 负责沉淀，AI 陪你检索、讨论和整理。**
 
+![从微信读书划线和记录想法，经 Notion 同步回看、AI 讨论，再将心得写回 Notion 并关联书籍或项目](asset/reading-journey.svg)
+
 <a name="quick-start"></a>
 
 ## 🚀 一句话开始

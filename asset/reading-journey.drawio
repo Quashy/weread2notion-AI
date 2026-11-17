@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" type="device" version="29.0.0">
+  <diagram id="reading-journey" name="阅读到思考">
+    <mxGraphModel dx="1120" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="360" math="0" shadow="0" background="#F5F7FA">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#F5F7FA;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="1120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#FFFFFF;strokeColor=#E0E5EC;" vertex="1" parent="1">
+          <mxGeometry x="25" y="28" width="242" height="304" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="01" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;ellipse;fillColor=#EAF3FF;strokeColor=none;fontColor=#0066CC;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="45" y="48" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="微信读书" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=17;fontColor=#6E6E73;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="48" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="留下划线与想法" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=20;fontColor=#1D1D1F;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="230" width="202" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="划一句，记下当时的感受" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=14;fontColor=#6E6E73;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="272" width="202" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="8" style="edgeStyle=none;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#0066CC;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="178" as="sourcePoint" />
+            <mxPoint x="293" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#FFFFFF;strokeColor=#E0E5EC;" vertex="1" parent="1">
+          <mxGeometry x="301" y="28" width="242" height="304" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="02" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;ellipse;fillColor=#EAF3FF;strokeColor=none;fontColor=#0066CC;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="321" y="48" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Notion" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=17;fontColor=#6E6E73;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="48" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="同步后重新回看" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=20;fontColor=#1D1D1F;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="230" width="202" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="翻开章节，找回阅读线索" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=14;fontColor=#6E6E73;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="272" width="202" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="14" style="edgeStyle=none;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#0066CC;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="551" y="178" as="sourcePoint" />
+            <mxPoint x="569" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#FFFFFF;strokeColor=#E0E5EC;" vertex="1" parent="1">
+          <mxGeometry x="577" y="28" width="242" height="304" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="03" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;ellipse;fillColor=#EAF3FF;strokeColor=none;fontColor=#0066CC;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="597" y="48" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="AI 助理" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=17;fontColor=#6E6E73;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="48" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="讨论、追问、整理" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=20;fontColor=#1D1D1F;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="597" y="230" width="202" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="从自己的阅读记录开始" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=14;fontColor=#6E6E73;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="272" width="202" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="20" style="edgeStyle=none;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#0066CC;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827" y="178" as="sourcePoint" />
+            <mxPoint x="845" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#FFFFFF;strokeColor=#E0E5EC;" vertex="1" parent="1">
+          <mxGeometry x="853" y="28" width="242" height="304" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="04" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;ellipse;fillColor=#EAF3FF;strokeColor=none;fontColor=#0066CC;fontSize=13;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="873" y="48" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Notion" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=17;fontColor=#6E6E73;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="48" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="把理解写回 Notion" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=20;fontColor=#1D1D1F;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="873" y="230" width="202" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="关联这本书或正在做的项目" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=14;fontColor=#6E6E73;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="873" y="272" width="202" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#F8FAFD;strokeColor=#DEE5ED;" vertex="1" parent="1">
+          <mxGeometry x="61" y="98" width="170" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="读到这里" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=13;fontColor=#6E6E73;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="109" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#EAF3FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="143" width="140" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="29" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#739EC9;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="83" y="152" as="sourcePoint" />
+            <mxPoint x="205" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#B2BBC8;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="177" as="sourcePoint" />
+            <mxPoint x="197" y="177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="写下一个想法" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=12;fontColor=#0066CC;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="187" width="140" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#FFFFFF;strokeColor=#DCE2EA;" vertex="1" parent="1">
+          <mxGeometry x="346" y="94" width="152" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="一本书的笔记" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=14;fontColor=#1D1D1F;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="105" width="122" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="第一章" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=12;fontColor=#6E6E73;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="133" width="122" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#F2F6FC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="122" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="36" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#0066CC;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="161" as="sourcePoint" />
+            <mxPoint x="360" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#B2BBC8;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="371" y="172" as="sourcePoint" />
+            <mxPoint x="470" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#B2BBC8;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="371" y="184" as="sourcePoint" />
+            <mxPoint x="451" y="184" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#EAF3FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="618" y="104" width="157" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="为什么打动我？" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=15;fontColor=#0066CC;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="133" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#F5F7FA;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="157" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="一起追问和整理" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=15;fontColor=#6E6E73;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="622" y="166" width="133" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#F2F6FC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="884" y="98" width="180" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="Notion · 我的心得" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontSize=15;fontColor=#1D1D1F;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="898" y="108" width="152" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="45" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#B2BBC8;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="898" y="144" as="sourcePoint" />
+            <mxPoint x="1048" y="144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#8B9BB0;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="974" y="164" as="sourcePoint" />
+            <mxPoint x="974" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#8B9BB0;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="921" y="179" as="sourcePoint" />
+            <mxPoint x="1027" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#8B9BB0;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="921" y="179" as="sourcePoint" />
+            <mxPoint x="921" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49" style="edgeStyle=none;rounded=0;html=0;endArrow=none;endFill=1;strokeColor=#8B9BB0;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1027" y="179" as="sourcePoint" />
+            <mxPoint x="1027" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#FFFFFF;strokeColor=#DCE2EA;" vertex="1" parent="1">
+          <mxGeometry x="884" y="190" width="74" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="这本书" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;fontSize=13;fontColor=#0066CC;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="884" y="190" width="74" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;rounded=1;arcSize=8;fillColor=#FFFFFF;strokeColor=#DCE2EA;" vertex="1" parent="1">
+          <mxGeometry x="990" y="190" width="74" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="项目" style="html=0;whiteSpace=nowrap;fontFamily=Microsoft YaHei;fontColor=#1D1D1F;text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;fontSize=13;fontColor=#0066CC;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="190" width="74" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
